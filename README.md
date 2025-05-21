@@ -1,7 +1,8 @@
 # conv-kmeans-lab
+
 Convolutional K-means Color Segmenter in CIELAB
 
-# Usage
+## Usage
 
 ```cpp
 
@@ -22,10 +23,10 @@ Convolutional K-means Color Segmenter in CIELAB
 
 ```
 
-# Author
+## Author
 
 @arpad1337
 
-# License
+## License
 
 MIT
